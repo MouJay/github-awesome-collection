@@ -84,18 +84,18 @@
     "checkedAt": "2026-10-29（README 與儲存庫存在性）"
   },
   {
-    "id": "SkillGodAk/HGTV",
-    "name": "HGTV",
-    "url": "https://github.com/SkillGodAk/HGTV",
-    "stars": null,
-    "description": "待確認：尚未核對 README",
+    "id": "pan8664716/HGTV",
+    "name": "HGTV（紅果TV）",
+    "url": "https://github.com/pan8664716/HGTV",
+    "stars": 132,
+    "description": "Android TV／手機／平板短劇播放客戶端，支援搜尋、收藏、觀看紀錄、選集、倍速、彈幕及應用內更新；使用非官方內容介面。",
     "category": "影音工具",
     "lastUpdated": null,
-    "maintenance": "待確認",
-    "installation": "待確認",
+    "maintenance": "未封存；近期有版本發布",
+    "installation": "Android 4.4+，下載 Releases APK 安裝；低～中",
     "notes": "",
-    "recommendation": "待確認",
-    "checkedAt": null
+    "recommendation": "適合 Android TV 盒子或電視觀看短劇；非官方介面可能失效，安裝前確認來源與授權。",
+    "checkedAt": "2026-10-29"
   },
   {
     "id": "Renhuai123/ziwei-doushu",
