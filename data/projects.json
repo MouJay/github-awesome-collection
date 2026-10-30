@@ -138,5 +138,26 @@
         "differences": "hongguoTV Kotlin 原生版最低 Android 8.0、無需 Node／Docker；HGTV 標示支援 Android 4.4+、手機／平板／TV，並提供彈幕等功能。兩者實際設備相容性仍需測試。"
       }
     ]
+  },
+  {
+    "id": "Gathin23/cleanyourtv",
+    "name": "CleanYourTV",
+    "url": "https://github.com/Gathin23/cleanyourtv",
+    "stars": 45677,
+    "description": "透過 Wi‑Fi 與 ADB 停用 Android TV／Google TV 預載廣告、追蹤與不必要服務，並安裝 Apple TV 風格的精簡桌面 Launcher；不需 Root、不移除套件，附還原流程。",
+    "category": "電視系統工具",
+    "lastUpdated": "2026-10-29T15:41:30Z",
+    "maintenance": "未封存；2026-10-27 正式發布 v3.1.0，近期仍有程式碼更新",
+    "installation": "Android TV／Google TV，需開啟 ADB 偵錯；電腦與電視同 Wi‑Fi，Python 3、JDK 17–22、Android SDK Platform 34；中～高。非 Android 系統僅提供隱私設定指南。",
+    "notes": "v3.1.0 於 2026-10-27 發布；Samsung／LG／Roku 等非 Android TV 不支援清理與 Launcher 安裝，僅提供關閉追蹤的操作指南。修改系統服務前應備份並核對停用清單；版本頁沒有預編譯二進位安裝包。",
+    "recommendation": "適合希望改善 Android TV／Google TV 首頁廣告、預載軟體與隱私的使用者；若只想看短劇應選 HGTV／hongguoTV，本專案不是影音播放器。",
+    "checkedAt": "2026-10-30（GitHub README、REST Repository API 與 v3.1.0 Release）",
+    "similarProjects": [
+      {
+        "id": "pan8664716/HGTV",
+        "relationship": "同為 Android TV 生態，但用途不同",
+        "differences": "CleanYourTV 是系統清理與桌面 Launcher 工具，需 ADB 並影響電視系統設定；HGTV 是短劇播放 App，主要用來搜尋與播放內容。兩者不是互相替代的播放器。"
+      }
+    ]
   }
 ]
