@@ -11,7 +11,12 @@
     "installation": "Linux／macOS／Windows；中等",
     "notes": "",
     "recommendation": "適合部署個人長期運行的 AI 助理及工作流程。",
-    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）"
+    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）",
+    "searchKeywords": [
+      "self-improving agent",
+      "autonomous agent memory skills",
+      "hermes agent"
+    ]
   },
   {
     "id": "cursortouch/windows-mcp",
@@ -25,7 +30,12 @@
     "installation": "Windows 10／11，Python 3.14+；中等",
     "notes": "",
     "recommendation": "適合 AI 操作 Windows 軟體與桌面自動化。",
-    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）"
+    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）",
+    "searchKeywords": [
+      "windows mcp",
+      "mcp desktop automation",
+      "computer use windows"
+    ]
   },
   {
     "id": "seedds/nxnative",
@@ -39,7 +49,11 @@
     "installation": "macOS、Xcode、iOS／iPadOS；高",
     "notes": "",
     "recommendation": "適合研究 Switch 遊戲在 Apple 裝置上的原生執行與相容性。",
-    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）"
+    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）",
+    "searchKeywords": [
+      "nintendo switch homebrew",
+      "switch native port"
+    ]
   },
   {
     "id": "playportdev/playport",
@@ -53,7 +67,11 @@
     "installation": "iOS 26+；中等",
     "notes": "",
     "recommendation": "適合探索 iPhone 本機運行 PC 遊戲及遊戲相容性。",
-    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）"
+    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）",
+    "searchKeywords": [
+      "game streaming ios",
+      "remote play ios"
+    ]
   },
   {
     "id": "jbiaojerry/ebook-treasure-chest",
@@ -67,7 +85,12 @@
     "installation": "瀏覽器／GitHub；低",
     "notes": "",
     "recommendation": "適合依主題查找電子書目錄；取得內容時應確認授權。",
-    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）"
+    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）",
+    "searchKeywords": [
+      "电子书 资源",
+      "ebook collection",
+      "电子书"
+    ]
   },
   {
     "id": "jhaizhou-ops/d2r-mobile",
@@ -81,7 +104,12 @@
     "installation": "iOS／macOS／Android 等；高",
     "notes": "",
     "recommendation": "適合研究 D2R 跨平台移植、觸控操作與相容性。",
-    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）"
+    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）",
+    "searchKeywords": [
+      "diablo 2 android",
+      "diablo ii port",
+      "d2r"
+    ]
   },
   {
     "id": "pan8664716/HGTV",
@@ -102,6 +130,11 @@
         "relationship": "同類型／上游與衍生版",
         "differences": "hongguoTV Kotlin 原生版最低 Android 8.0、無需 Node／Docker；HGTV 標示支援 Android 4.4+、手機／平板／TV，並提供彈幕等功能。兩者實際設備相容性仍需測試。"
       }
+    ],
+    "searchKeywords": [
+      "红果 短剧",
+      "短剧 tv",
+      "hongguo"
     ]
   },
   {
@@ -116,7 +149,12 @@
     "installation": "Web／開發環境；中等",
     "notes": "",
     "recommendation": "適合研究傳統命理排盤演算法及建立排盤應用。",
-    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）"
+    "checkedAt": "2026-10-30（Stars／最後推送：GitHub REST Repository API 公開資料）；先前查證：2026-10-29（README 與儲存庫存在性）",
+    "searchKeywords": [
+      "紫微斗数",
+      "ziwei",
+      "排盘"
+    ]
   },
   {
     "id": "N3urda/hongguoTV",
@@ -137,6 +175,11 @@
         "relationship": "同類型／上游與衍生版",
         "differences": "hongguoTV Kotlin 原生版最低 Android 8.0、無需 Node／Docker；HGTV 標示支援 Android 4.4+、手機／平板／TV，並提供彈幕等功能。兩者實際設備相容性仍需測試。"
       }
+    ],
+    "searchKeywords": [
+      "红果 短剧",
+      "短剧 tv",
+      "hongguo"
     ]
   },
   {
@@ -158,6 +201,11 @@
         "relationship": "同為 Android TV 生態，但用途不同",
         "differences": "CleanYourTV 是系統清理與桌面 Launcher 工具，需 ADB 並影響電視系統設定；HGTV 是短劇播放 App，主要用來搜尋與播放內容。兩者不是互相替代的播放器。"
       }
+    ],
+    "searchKeywords": [
+      "android tv debloat",
+      "google tv launcher",
+      "adb tv debloat"
     ]
   }
 ]
