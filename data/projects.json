@@ -207,5 +207,24 @@
       "google tv launcher",
       "adb tv debloat"
     ]
+  },
+  {
+    "id": "michael-denyer/pstack-claude",
+    "name": "pstack-claude",
+    "url": "https://github.com/michael-denyer/pstack-claude",
+    "stars": 3400,
+    "description": "Cursor 團隊 Lauren Tan 的 pstack 移植版：一組嚴謹的 AI 寫程式工作流程 Skills，透過 poteto-mode 自動挑選 playbook（重現→調查→修正→驗證），支援 Claude Code、Codex、Copilot、Pi、OpenCode、Gemini CLI 等。",
+    "category": "AI Agent",
+    "lastUpdated": null,
+    "maintenance": "未封存；270 commits，持續追蹤上游 pstack（最後提交日期待確認）",
+    "installation": "Claude Code 2.1.292+ 或 Codex CLI 以 plugin marketplace 安裝；其他工具用 git clone 連結 skills；低～中",
+    "notes": "Stars 為 GitHub 頁面顯示的約略值（3.4k）。無伺服器與遙測，但 skill 讀取的內容會送到所用模型供應商。會派出多個子 agent，token 用量可能較高（未查證具體數字）。進階形式驗證另見 michael-denyer/agent-formal-verify。MIT 授權。",
+    "recommendation": "適合用 Claude Code／Codex 開發程式、想讓 agent 修 bug 時附上失敗與通過證據的人；不適用 claude.ai 一般聊天。",
+    "checkedAt": "2026-11-04（GitHub README 與儲存庫頁面；REST API 本次未取得）",
+    "searchKeywords": [
+      "claude code skills",
+      "coding agent workflow",
+      "agent plugin"
+    ]
   }
 ]
